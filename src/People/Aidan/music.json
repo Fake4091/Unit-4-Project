@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "artistName": "Bring Me the Horizon",
+    "songs": [
+      {
+        "id": 1,
+        "songName": "Parasite Eve",
+        "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CS0fuQW3Fto?si=tkE9xTya-J-yQh9u\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/36xBFaVGjqm7le8CTHytUj?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 2,
+        "songName": "Ludens",
+        "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/caYD1-uck_c?si=MRisSx-e0OVgGnJd\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2eZjO58Qe9og2xmyfw4qwJ?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 3,
+        "songName": "Obey",
+        "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hgcYbaCq7BU?si=E2x-RddLCYRp2Z99\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6MD6xpFK4cfquxRqXxqwjq?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "artistName": "Kaden MacKay",
+    "songs": [
+      {
+        "id": 4,
+        "songName": "Your Stupid Face",
+        "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lYTdUNdvnLQ?si=_FbYRV0vOC4eRUPO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6f4HCP1JLS0ia5UdZ7hgJV?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 5,
+        "songName": "Passing Through",
+        "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fOSVzv3iioE?si=SYQ05hHp98Fo989H\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2lXqwlG8za1sWKgHRwEiEC?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 6,
+        "songName": "What If Things Get Worse",
+        "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1xStb1e9rto?si=WJsiCR60h96ORV2M\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4ApsXB12NvuHQSWuvkCv2e?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      }
+    ]
+  }
+]
