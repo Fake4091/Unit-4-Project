@@ -1,8 +1,11 @@
 /* Navbar container */
 .navbar {
+  display: flex;
   overflow: hidden;
+  height: 8vh;
   background-color: #333;
   font-family: Arial;
+
 }
 
 /* Links inside the navbar */
@@ -37,6 +40,7 @@
 .navbar a:hover,
 .dropdown:hover .dropbtn {
   background-color: red;
+  cursor: pointer;
 }
 
 /* Dropdown content (hidden by default) */
@@ -67,4 +71,10 @@
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+.logoImage {
+  justify-content: flex-start;
+  height: 8vh;
+  padding-right: 1vw;
 }

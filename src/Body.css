@@ -1,0 +1,27 @@
+.songLinks {
+  list-style: none;
+}
+.spotifySongs {
+  width: 50%;
+  height: 20%;
+}
+.youtubeSongs {
+  width: 500px;
+  border-radius: 12px;
+}
+.songNames {
+  text-align: center;
+  font-weight: bolder;
+  width: 100vw;
+  font-size: 25px;
+}
+.nameRow {
+  margin: 2vh 1vw;
+}
+.songTable {
+  padding-right: 5%;
+}
+.header {
+  display: flex;
+  justify-content: space-evenly;
+}

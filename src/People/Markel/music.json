@@ -2,23 +2,24 @@
   {
     "id": 3,
     "artistName": "Rod Wave",
+    "YTID": "UCenjunBhBhvKjfDAESnoppw",
     "songs": [
       {
         "id": 7,
         "songName": "Jupiter's Diary",
-        "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zVHZCe6Slnw?si=e5KuegltQ9IQN7dk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-        "songSpotify": "z<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2JVvEPpNroKoTZWNoGSr2Z?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+        "songYT": "<iframe width=\"560\" height=\"351\" src=\"https://www.youtube.com/embed/zVHZCe6Slnw?si=e5KuegltQ9IQN7dk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2JVvEPpNroKoTZWNoGSr2Z?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
       },
       {
         "id": 8,
         "songName": "MJ Story",
-        "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/e0a-q2BqFEA?si=fMSjWqlq91Si2tN9\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songYT": "<iframe width=\"560\" height=\"351\" src=\"https://www.youtube.com/embed/e0a-q2BqFEA?si=fMSjWqlq91Si2tN9\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
         "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/7G5wdn7Os6rKWtmbTYCjJO?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
       },
       {
         "id": 9,
         "songName": "2019",
-        "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/q5S26XoWv-E?si=BJPPsOx352LSAmM8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songYT": "<iframe width=\"560\" height=\"351\" src=\"https://www.youtube.com/embed/q5S26XoWv-E?si=BJPPsOx352LSAmM8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
         "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5uDCagy7HnW0b3qBHfaOAO?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
       }
     ]
@@ -26,23 +27,24 @@
   {
     "id": 4,
     "artistName": "Adele",
+    "YTID": "UCsRM0YB_dabtEPGPTKo-gcw",
     "songs": [
       {
         "id": 10,
         "songName": "Water Under the Bridge",
-        "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NgNqpsWE-o0?si=SS4yhqJvRFwxfpPp\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songYT": "<iframe width=\"560\" height=\"351\" src=\"https://www.youtube.com/embed/NgNqpsWE-o0?si=SS4yhqJvRFwxfpPp\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
         "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4jL6WWKFDqCOPo2hC3VhSS?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
       },
       {
         "id": 11,
         "songName": "Someone Like You",
-        "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hLQl3WQQoQ0?si=pJBa1z2kC3SUsx01\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songYT": "<iframe width=\"560\" height=\"351\" src=\"https://www.youtube.com/embed/hLQl3WQQoQ0?si=pJBa1z2kC3SUsx01\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
         "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1zwMYTA5nlNjZxYrvBB2pV?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
       },
       {
         "id": 12,
         "songName": "All I Ask",
-        "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sonzlE32YVg?si=WleiJKIhWS1ATo4S\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songYT": "<iframe width=\"560\" height=\"351\" src=\"https://www.youtube.com/embed/sonzlE32YVg?si=WleiJKIhWS1ATo4S\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
         "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/05TOt5Vz4StdjMpEdFPlvB?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
       }
     ]

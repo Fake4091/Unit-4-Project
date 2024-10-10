@@ -1,56 +1,52 @@
-
 [
-    {
-        "id": 5,
-        "artistName": "Yahir Saldivar",
-        "songs": [
-          {
-            "id": 13,
-            "songName": "SC-9",
-            "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/watch?v=4Vu8n_2zm-Y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-            "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
-          },
-          {
-            "id": 14,
-            "songName": "A LA ORDEN",
-            "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/watch?v=oWwpxh7kfEQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-            "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
-          },
-          {
-            "id": 15,
-            "songName": "EN UNA MANCHA",
-            "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/watch?v=Qk4mpml5uo0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-            "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/album/0533nVzAXyqVDcOvV2DNIN\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
-          
-          
-          }
-        ]
+  {
+    "id": 5,
+    "artistName": "Yahir Saldivar",
+    "YTID": "UCuN6h7TTKe_f29BDOx3cytQ",
+    "songs": [
+      {
+        "id": 13,
+        "songName": "SC-9",
+        "songYT": "<iframe width=\"560\" height=\"351\" src=\"https://www.youtube.com/embed/4Vu8n_2zm-Y?si=0YQZNUdrxGXc_suH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/03yAV3GfB7jMAEnynZaAEe?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
       },
       {
-        "id": 6,
-        "artistName": "Frank Sinatra",
-        "songs": [
-          {
-            "id": 16,
-            "songName": "Fly Me To The Moon",
-            "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/watch?v=8tbP3f3i03E\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-            "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/track/1PVTvvxpSkyJWemW1CwVVk\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
-          
-          },
-          {
-            "id": 17,
-            "songName": "Somethin' Stupid",
-            "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/watch?v=Y_t2gNCXYbY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-            "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfVk\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
-          
-          },
-          {
-            "id": 18,
-            "songName": "Strangers In The Night",
-            "songYT": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/watch?v=Fd_3EkGr0-4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-            "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/track/3O8s4pon1omITzB07t6oNx\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
-          
-          }
-        ]
+        "id": 14,
+        "songName": "A LA ORDEN",
+        "songYT": "<iframe width=\"560\" height=\"351\" src=\"https://www.youtube.com/embed/oWwpxh7kfEQ?si=1rM1S-gYxeiUw9WD\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0rodUDZZo1w7pZHHoTtUb7?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 15,
+        "songName": "EN UNA MANCHA",
+        "songYT": "<iframe width=\"560\" height=\"351\" src=\"https://www.youtube.com/embed/F3QpcF0eog4?si=BgXjerQGDa2ABZJ3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4PbifLW8B69Qvs48ugdXeV?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
       }
+    ]
+  },
+  {
+    "id": 6,
+    "artistName": "Frank Sinatra",
+    "YTID": "UCJtvg6ZFwzdFdtcHBqetvwg",
+    "songs": [
+      {
+        "id": 16,
+        "songName": "Fly Me To The Moon",
+        "songYT": "<iframe width=\"560\" height=\"351\" src=\"https://www.youtube.com/embed/8tbP3f3i03E?si=nxrfN2zz6XiyGoLb\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/7FXj7Qg3YorUxdrzvrcY25?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 17,
+        "songName": "Somethin' Stupid",
+        "songYT": "<iframe width=\"560\" height=\"351\" src=\"https://www.youtube.com/embed/Y_t2gNCXYbY?si=e4BpGoJYKcwa9lcp\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4feXcsElKIVsGwkbnTHAfV?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 18,
+        "songName": "Strangers In The Night",
+        "songYT": "<iframe width=\"560\" height=\"351\" src=\"https://www.youtube.com/embed/Fd_3EkGr0-4?si=eIYS_uGM4EwFqTsO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "songSpotify": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3O8s4pon1omITzB07t6oNx?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      }
+    ]
+  }
 ]
