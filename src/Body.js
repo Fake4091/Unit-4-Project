@@ -24,12 +24,12 @@ function Body() {
   ));
 
   return (
-    <>
+    <div className="body">
       <div className="header">
         <h1 className="artistName">{user.artistName}</h1>
       </div>
       <ol className="songList">{listItems}</ol>
-    </>
+    </div>
   );
 }
 
