@@ -1,8 +1,11 @@
+body {
+  overflow-x: hidden;
+}
 .body {
   display: flex;
   width: 100vw;
   flex-direction: column;
-  justify-content: center;
+  align-items: center;
   text-align: center;
 }
 .songList {
@@ -24,7 +27,7 @@
   font-weight: bolder;
   width: 100vw;
   font-size: 35px;
-  margin: 0% 0% 0% 0%
+  margin: 0% 0% 0% 0%;
 }
 .nameRow {
   margin: 2vh 1vw;
