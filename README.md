@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width: 30%;" src="./logo.png" alt="project image">  
+  <img style="width: 30%;" src="./ReadMe-Resources/logo.png" alt="project image">  
   
   # **Melody Vault**
 
@@ -8,7 +8,7 @@
 
   COLOR PALETTE            |  DEMO
 :-------------------------:|:-------------------------:
-<img style="width: 80%;" src="./color.png" alt="Color Palette">   |  [![Video of our project](https://img.youtube.com/vi/nkCMdIyqyMQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=nkCMdIyqyMQ)
+<img style="width: 80%;" src="./ReadMe-Resources/color.png" alt="Color Palette">   |  [![Video of our project](https://img.youtube.com/vi/nkCMdIyqyMQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=nkCMdIyqyMQ)
 </div>
 
 ## **KEY FEATURES:**
